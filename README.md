@@ -1,5 +1,4 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffa107&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Anthony+Lopes,;Be+Welcome.)](https://git.io/typing-svg) 
 
 
 ### 💻 Development Stack:
