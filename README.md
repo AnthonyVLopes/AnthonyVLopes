@@ -4,8 +4,8 @@
 ### 💻 Development Stack:
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="JAVA"
+    title="JAVA" 
     width="35px" 
     style="padding-right: 10px;" 
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
@@ -13,28 +13,38 @@
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="SPRING"
+    title="SPRING" 
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
 />
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="GIT"
+    title="GIT" 
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="GNU/LINUX"
+    title="GNU/LINUX" 
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
+<br/>
+### 📚 Current Study:
+
+<img 
+    align="left" 
+    alt="REACT"
+    title="REACT" 
+    width="35px" 
+    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
 <br/>
 <br/>
 
